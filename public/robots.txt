@@ -1,0 +1,6 @@
+# robots.txt for ttter
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://ttter.com/sitemap.xml
