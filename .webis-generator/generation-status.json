@@ -1,8 +1,11 @@
 {
-  "projectName": "ttter-4274",
-  "businessName": "ttter",
-  "created": "2025-04-06T10:11:14.827Z",
-  "status": "initialized",
-  "progress": 0,
-  "components": []
+  "timestamp": "2025-04-06T10:12:37.027Z",
+  "status": {
+    "totalComponents": 0,
+    "completedComponents": 0,
+    "failedComponents": 0,
+    "progress": 0
+  },
+  "components": [],
+  "repoName": "webis-site-ttter-1743934274682"
 }
