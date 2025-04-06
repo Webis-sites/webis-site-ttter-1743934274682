@@ -1,8 +1,36 @@
 {
   "projectName": "ttter-4274",
   "businessName": "ttter",
-  "created": "2025-04-06T10:11:14.827Z",
-  "status": "initialized",
-  "progress": 0,
-  "components": []
+  "description": "אנחנו משרד עורכי דין מוביל בתחום האופנה עם ניסיון של שנים רבות. אנחנו מתמחים במתן שירות מקצועי ואיכותי ללקוחותינו.",
+  "created": "2025-04-06T10:12:37.028Z",
+  "generatedWith": "webis-generator",
+  "repoName": "webis-site-ttter-1743934274682",
+  "formData": {
+    "businessName": "ttter",
+    "businessType": "משרד עורכי דין",
+    "industry": "בריאות",
+    "businessSize": "small",
+    "description": "אנחנו משרד עורכי דין מוביל בתחום האופנה עם ניסיון של שנים רבות. אנחנו מתמחים במתן שירות מקצועי ואיכותי ללקוחותינו.",
+    "language": "he",
+    "primaryColor": "#588C7E",
+    "secondaryColor": "#D4A5A5",
+    "typographyStyle": "classic",
+    "animationPreference": "extensive",
+    "headline": "משרד עורכי דין מוביל בישראל",
+    "descriptionText": "חווית לקוח מושלמת בכל ביקור",
+    "ctaText": "קבע תור עכשיו",
+    "formFields": "שם, טלפון, אימייל, הודעה",
+    "includeTestimonials": true,
+    "includeFAQ": true,
+    "hasProducts": true,
+    "hasServices": true,
+    "hasPortfolio": false,
+    "needsBookingSystem": false,
+    "metaDescription": "משרד עורכי דין מוביל המספק שירות מקצועי ואיכותי. הזמינו תור עוד היום!",
+    "metaKeywords": "משרד עורכי דין, שירות, איכות, מקצועיות, ישראל",
+    "designStyles": [
+      "neumorphic",
+      "glassmorphism"
+    ]
+  }
 }
